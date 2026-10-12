@@ -127,6 +127,7 @@ Every weighted number inherits those choices.
 | File | What it is |
 | --- | --- |
 | `BRIEF.md` | The product brief — users, scope, automation ladder, metrics tree, experiment design, risks, phasing |
+| `PRD.md` | Phase 1 requirements — user stories, P0/P1/P2 requirements with acceptance criteria, success metrics, open questions |
 | `bgl_analysis.py` | Analysis pipeline. Signature extraction, arrival profile, queue-pressure model, time-split retrieval evaluation with per-signature breakdown |
 | `build_triage_data.py` | Runs retrieval over the log and emits the UI's dataset |
 | `triage_ui.html` | The triage screen. Self-contained, data embedded |
